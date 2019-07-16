@@ -1,1 +1,2 @@
 testEdit
+test reset soft
